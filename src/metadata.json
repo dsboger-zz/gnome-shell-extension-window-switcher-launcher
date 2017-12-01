@@ -1,0 +1,8 @@
+{
+	"shell-version": ["3.22", "3.24", "3.26"],
+	"uuid": "gnome-shell-extension-window-switcher-launcher.dsboger@gmail.com",
+	"name": "Window Switcher Launcher",
+	"description": "Launch favorite apps from window switcher popup",
+	"url": "https://github.com/dsboger/gnome-shell-extension-window-switcher-launcher",
+	"version": 1
+}
