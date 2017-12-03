@@ -4,7 +4,7 @@ Launch favorite apps from window switcher popup.
 
 Git repository: https://github.com/dsboger/gnome-shell-extension-window-switcher-launcher
 
-E.g.o: (pending approval)
+E.g.o: https://extensions.gnome.org/extension/1343/window-switcher-launcher/
 
 ## Notes
 
